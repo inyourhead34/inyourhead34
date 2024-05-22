@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In Your Head - Mental Health Podcast and Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4c9f70;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #3b7f59;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #4c9f70;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>In Your Head</h1>
+    <p>A Mental Health Podcast and Blog by Crystal, Kayawna, and Destiny</p>
+</header>
+
+<nav>
+    <a href="#about">About Us</a>
+    <a href="#blog">Blog</a>
+    <a href="#podcast">Podcast</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to "In Your Head," a mental health podcast and blog run by Crystal, Kayawna, and Destiny. We are dedicated to providing valuable insights, support, and resources to help you navigate your mental health journey.</p>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Explore our latest blog posts on mental health topics, personal stories, and expert advice. Stay tuned for regular updates!</p>
+    </section>
+
+    <section id="podcast">
+        <h2>Podcast</h2>
+        <p>Listen to our podcast episodes where we discuss various mental health issues, share our experiences, and interview experts in the field. Available on all major streaming platforms.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you have any questions, feedback, or want to get in touch, feel free to reach out to us through our social media channels or send us an email at contact@inyourheadpodcast.com.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 In Your Head. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
